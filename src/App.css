@@ -1,0 +1,12 @@
+.container {
+  margin: 10px;
+}
+
+.header {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 20px;
+  color: #FA6834;
+  font-family: 'Roboto Mono', monospace;
+  margin-bottom: 10px;
+}
