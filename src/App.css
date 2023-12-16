@@ -2,6 +2,13 @@
   margin: 10px;
 }
 
+.loader{
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
 .header {
   font-size: 24px;
   font-weight: 600;
@@ -10,3 +17,16 @@
   font-family: 'Roboto Mono', monospace;
   margin-bottom: 10px;
 }
+
+.load_more_jobs{
+  background-color: #FA6834;
+  color: #ffffff;
+  width: 130px;
+  padding: 8px;
+  text-align: center;
+  border-radius: 4px;
+  font-size: 15px;
+  font-family: 'Roboto Mono', monospace;
+  cursor: pointer;
+}
+
